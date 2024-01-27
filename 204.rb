@@ -7,6 +7,6 @@
 
 https://docs.google.com/document/d/1cdy7bIjG9Sw_WrzRssiz7zjc_37VYIsd01xyIIcioAk/edit?pli=1#heading=h.gyzkhjev28mz
 
-git add --all
-git commit -m "Add practice problem"
-git push origin main
+# git add --all
+# git commit -m "Add practice problem"
+# git push origin main
