@@ -62,6 +62,11 @@ while index < 71
 end
 # # Write a while loop that prints the phrase "Around the world" 144 times.
 
+index = 0
+while index < 144
+  puts "Around the world"
+index = index + 1
+end
 
 # # Write a while loop that asks the user to enter a word and will run forever until the user enters a word with more than 5 letters.
 
