@@ -70,10 +70,16 @@
 
 # # # Write a while loop that asks the user to enter a word and will run forever until the user enters a word with more than 5 letters.
 
-puts "please enter a word"
-while gets.chomp.length < 5
-  puts "please enter a word"
-end
+# puts "please enter a word"
+# while gets.chomp.length < 5
+#   puts "please enter a word"
+# end
 
 # # # Write a while loop that prints the even numbers from 2 to 40.
+
+index = 2
+while 2 <= 40
+  puts index
+  index = index + 2
+end
 
