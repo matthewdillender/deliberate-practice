@@ -32,6 +32,9 @@ pp numbers
 
 # Create an array to store 3 strings with lower case letters. Then change the third string to have all capital letters and print the array on one line.
 
+letters = ["chill", "relax", "mellow"]
+letters[2] = "mellow".upcase
+pp letters
 
 # Create an array to store 3 names. Then print out each name on separate lines with a while loop.
 
