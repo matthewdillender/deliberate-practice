@@ -24,6 +24,11 @@ end
 
 # Create an array to store 1 number. Then add three more numbers to the array and print the array on one line.
 
+numbers = [1]
+numbers.push(5)
+numbers.push(6)
+numbers.push(7)
+pp numbers
 
 # Create an array to store 3 strings with lower case letters. Then change the third string to have all capital letters and print the array on one line.
 
