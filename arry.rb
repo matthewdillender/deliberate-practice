@@ -9,10 +9,9 @@ pp array
 
 # Create an array to store 4 letters. Then change the second letter to a number and print the array on one line.
 
-letters = [a, b, c, d]
+letters = ["a", "b", "c", "d"]
 letters[1] = 2
-letters.push(letters[1])
-puts letters
+pp letters
 
 # Create an array to store 5 numbers. Then print out each number on separate lines with a while loop.
 
