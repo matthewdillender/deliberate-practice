@@ -8,6 +8,12 @@ puts x + y
 
 # Write a program that uses variables to store a first and last name, then prints the full name in one line using string interpolation (the #{} operator).
 
+x = "Mack"
+y = "Swan"
+
+p "#{x} #{y}" 
+
+
 
 # Write a program that uses variables to store a first and last name, then prints the full name in one line using string interpolation (the #{} operator).
 
