@@ -58,15 +58,15 @@
 
 # Create an array to store 2 numbers. Then print out each number on separate lines with a while loop.
 
-numbers = [1,6]
-index = 0
-while index < numbers.length
-  pp numbers[index]
-  index = index + 1
-end
-
-
-
+# numbers = [1,6]
+# index = 0
+# while index < numbers.length
+#   pp numbers[index]
+#   index = index + 1
+# end
 
 # Create an array to store names of 3 different countries. Then add one more country and print the array one line.
 
+
+countries = ["Brazil", "Germany", "Spain"]
+pp countries.push("Uzbekistan")
